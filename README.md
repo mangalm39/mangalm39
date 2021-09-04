@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mangalm39
 - 👀 I’m interested in development, especially on web applications and mobile.
-- 🌱 I’m currently learning React and Node JS to build some projects
+- 🌱 I’m currently learning React and Node JS to build some projects.
 - 📫 How to reach me, you can contact me by email (m.mangalayafu@gmail.com) or Twitter (@y_mavrick).
 
 <!---
